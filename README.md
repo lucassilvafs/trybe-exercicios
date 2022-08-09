@@ -23,93 +23,93 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 
 ##### [Bloco 3: Introdução à HTML & CSS](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b03_introducao-a-html-e-css)
 
-- [] 3-1: _Introdução - HTML & CSS_
-- [] 3-1: _HTML & CSS - Estruturas de página_
-- [] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [] 3-4: _HTML Semântico_
-- [] 3-5: _[Projeto - Lessons Learned](#)_
+- [ ] 3-1: _Introdução - HTML & CSS_
+- [ ] 3-1: _HTML & CSS - Estruturas de página_
+- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [ ] 3-4: _HTML Semântico_
+- [ ] 3-5: _[Projeto - Lessons Learned](#)_
 
 ##### [Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b04_introducao-a-javascript-e-logica-de-programcao)
 
-- [] 4-1: _Introdução - JavaScript_
-- [] 4-1: _JavaScript - Primeiros passos_
-- [] 4-2: _JavaScript - Array e loop For_
-- [] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [] 4-4: _JavaScript - Objetos e Funções_
-- [] 4-5: _[Projeto - Playground Functions]()_
+- [ ] 4-1: _Introdução - JavaScript_
+- [ ] 4-1: _JavaScript - Primeiros passos_
+- [ ] 4-2: _JavaScript - Array e loop For_
+- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [ ] 4-4: _JavaScript - Objetos e Funções_
+- [ ] 4-5: _[Projeto - Playground Functions]()_
 
 ##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b05_javascript-dom-eventos-e-web-storage)
 
-- [] 5-1: _JavaScript - DOM e seletores_
-- [] 5-2: _JavaScript - Trabalhando com elementos_
-- [] 5-3: _JavaScript - Eventos_
-- [] 5-4: _JavaScript - Web Storage_
-- [] 5-5: _Fundamentos - JavaScript - Projetos_
-- [] 5-5: _[Projeto - Arte com Pixels]()_
-- [] 5-6: _[Projeto - Lista de Tarefas]()_
-- [] 5-7: _[Projeto Bônus - Meme Generator]()_
-- [] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
-- [] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
+- [ ] 5-1: _JavaScript - DOM e seletores_
+- [ ] 5-2: _JavaScript - Trabalhando com elementos_
+- [ ] 5-3: _JavaScript - Eventos_
+- [ ] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5: _Fundamentos - JavaScript - Projetos_
+- [ ] 5-5: _[Projeto - Arte com Pixels]()_
+- [ ] 5-6: _[Projeto - Lista de Tarefas]()_
+- [ ] 5-7: _[Projeto Bônus - Meme Generator]()_
+- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
+- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
 ##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b06_html-e-css-forms-flexbox-e-responsivo)
 
-- [] 6-1: _HTML & CSS - Forms_
-- [] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [] 6-3: _CSS Flexbox - Part 1_
-- [] 6-4: _CSS Flexbox - Part 2_
-- [] 6-5: _CSS Responsivo - Mobile First_
-- [] 6-6: _[Projeto - Trybewarts]()_
+- [ ] 6-1: _HTML & CSS - Forms_
+- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] 6-3: _CSS Flexbox - Part 1_
+- [ ] 6-4: _CSS Flexbox - Part 2_
+- [ ] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projeto - Trybewarts]()_
 
 ##### [Bloco 7: Introdução à JavaScript ES6 & Testes Unitários](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b07_introducao-a-javascript-es6-e-testes-unitarios)
 
-- [] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [] 7-2: _JavaScript ES6 - Objects_
-- [] 7-3: _Primeiros passos em Jest_
-- [] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [ ] 7-2: _JavaScript ES6 - Objects_
+- [ ] 7-3: _Primeiros passos em Jest_
+- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
 ##### [Bloco 8: Higher Order Functions do JavaScript ES6](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b08_higher-order-function-do-javascript-es6)
 
-- [] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
-- [] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [] 8-6: _[Projeto - Zoo functions]()_
+- [ ] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
+- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [ ] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8-6: _[Projeto - Zoo functions]()_
 
 ##### [Bloco 9: JavaScript e Testes Assíncronos](https://github.com/leonardoVogel/trybe-exercicios/tree/main/01_fundamentos/b09-javascript-e-testes-assincronos)
 
-- [] 9-1: _JavaScript Assíncrono e Callbacks_
-- [] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
-- [] 9-3: _Jest - Testes Assíncronos_
-- [] 9-4: _[Projeto - Carrinho de Compras]()_
+- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
+- [ ] 9-2: _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] 9-3: _Jest - Testes Assíncronos_
+- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
 
 ## [Desenvolvimento Front-end](https://github.com/leonardoVogel/trybe-exercicios/tree/main/02_front-end) :hourglass_flowing_sand:
 
 ##### [Bloco 10: Introdução à React](https://github.com/leonardoVogel/trybe-exercicios/tree/main/02_front-end/b10_introducao-a-react)
 
-- [] 10-1: _Introdução - Front-end_
-- [] 10-1: _Introdução - React_
-- [] 10-1: _'Hello, world!' no React!_
-- [] 10-2: _Componentes React_
-- [] 10-3: _[Projeto - Sistema Solar]()_
+- [ ] 10-1: _Introdução - Front-end_
+- [ ] 10-1: _Introdução - React_
+- [ ] 10-1: _'Hello, world!' no React!_
+- [ ] 10-2: _Componentes React_
+- [ ] 10-3: _[Projeto - Sistema Solar]()_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [] 11-1: _Componentes com Estado e Eventos_
-- [] 11-2: _Formulários no React_
-- [] 11-3: _[Projeto - Tryunfo]()_
+- [ ] 11-1: _Componentes com Estado e Eventos_
+- [ ] 11-2: _Formulários no React_
+- [ ] 11-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 12: Ciclo de vida de componentes e React Router
 
-- [] 12-1: _Ciclo de vida de componentes_
-- [] 12-2: _React Router_
-- [] 12-3: _[Projeto - TrybeTunes]()_
+- [ ] 12-1: _Ciclo de vida de componentes_
+- [ ] 12-2: _React Router_
+- [ ] 12-3: _[Projeto - TrybeTunes]()_
 
 ##### Bloco 13: Metodologias Ágeis
 
-- [] 13-1: _Metodologias Ágeis_
-- [] 13-2: _[Projeto - Frontend Online Store]()_
+- [ ] 13-1: _Metodologias Ágeis_
+- [ ] 13-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
