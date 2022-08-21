@@ -1,0 +1,40 @@
+div:hover {
+    border: 5px;
+}
+
+#div1 {
+    background-color: aliceblue;
+    width: 100px;
+}
+
+#div2 {
+    background-color:aqua;
+    width: 100px;
+}
+
+#div3 {
+    background-color:blue;
+    width: 200px;
+}
+
+#div4 {
+    background-color:blueviolet;
+    width: 100px;
+}
+
+#div5 {
+    background-color:brown;
+    width: 100px;
+}
+
+#h31 {
+    font-style: italic;
+}
+
+#h33 {
+    font-style: italic;
+}
+
+#h35 {
+    font-style: italic;
+}
