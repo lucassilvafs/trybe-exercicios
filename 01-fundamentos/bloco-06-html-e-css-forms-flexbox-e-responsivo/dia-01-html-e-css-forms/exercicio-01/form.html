@@ -1,0 +1,71 @@
+<!-- criar um formulário do consurso TrybeTrip -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>TrybeTrip</title>
+</head>
+<body>
+  <header id="header">
+    <h1>Concurso TrybeTrip</h1>
+  </header>
+  <main>
+    <form action="test.php" method="post">
+      <fieldset id="form">
+        <legend>Formulário</legend>
+        <div class="form-field">
+          <label for="input-name">Nome</label>
+          <input type="text" class="inputs" id="input-name" name="nome" placeholder="Digite seu nome" minlength="10" maxlength="40" required>
+        </div>
+
+        <div class="form-field">
+          <label for="input-email">E-mail</label>
+          <input type="email" class="inputs" id="input-email" name="email" placeholder="Digite seu email" minlength="10" maxlength="50" required>
+        </div>
+
+        <div class="form-field">
+          <label for="" id="label-radio">Destino preferido</label>
+          <br>
+          <input type="radio" id="option-1" name="options" class="inputs">
+          <label for="option-1">Cidade</label>
+          <input type="radio" id="option-2" name="options" class="inputs">
+          <label for="option-2">Campo</label>
+          <input type="radio" id="option-3" name="options" class="inputs">
+          <label for="option-3">Praia</label>
+          <input type="radio" id="option-4" name="options" class="inputs">
+          <label for="option-4">Montanhas</label>
+        </div>
+
+        <div class="form-field">
+          <label for="input-textarea">Espaço para digitar a resposta:</label>
+          <textarea name="resposta" id="input-textarea" class="inputs" cols="30" rows="7" maxlength="500"></textarea>
+        </div>
+
+        <div class="form-field">
+          <label for="input-date">Qual a melhor data para realizar sua viagem?</label>
+          <br>
+          <input type="date" id="input-date" class="inputs" name="data">
+        </div>
+
+        <div class="form-field">
+          <label for="checkbox-1">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+          <input type="checkbox" id="checkbox-1" class="inputs" name="concordo">
+          <br>
+          <label for="checkbox-2">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label>
+          <input type="checkbox" id="checkbox-2" class="inputs" name="concordo">
+        </div>
+
+      </fieldset>
+      <div class="form-field">
+        <button type="submit" id="btn-submit" class="btn-form" disabled>Participar</button>
+        <button type="button" id="btn-clear" class="btn-form">Apagar</button>
+      </div>
+    </form>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

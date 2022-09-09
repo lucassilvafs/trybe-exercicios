@@ -1,0 +1,49 @@
+main {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+form {
+  width: 60%;
+}
+
+#header {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#form {
+  padding: 20px;
+
+}
+
+#input-textarea {
+  margin-top: 5px;
+  width: 80%;
+  resize: none;
+}
+
+#checkbox-2 {
+  margin-top: 15px;
+}
+
+#option-1 {
+  margin-top: 10px;
+}
+
+#input-date {
+  margin-top: 10px;
+}
+
+.btn-form {
+  height: 40px;
+  width: 150px;
+  border-radius: 10%;
+  margin: 15px;
+}
+
+.form-field {
+  margin-bottom: 20px;
+}
