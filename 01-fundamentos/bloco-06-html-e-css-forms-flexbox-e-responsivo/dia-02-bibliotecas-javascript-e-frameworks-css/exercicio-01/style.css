@@ -1,0 +1,45 @@
+main {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+form {
+  width: 60%;
+}
+
+#header {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#form {
+  padding: 20px;
+
+}
+
+#input-textarea {
+  margin-top: 5px;
+  width: 80%;
+  resize: none;
+}
+
+#input-date {
+  margin-top: 10px;
+}
+
+#label-radio {
+  margin-bottom: 10px;
+}
+
+.btn-form {
+  height: 40px;
+  width: 150px;
+  border-radius: 10%;
+  margin: 15px;
+}
+
+.form-field {
+  margin-bottom: 20px;
+}
