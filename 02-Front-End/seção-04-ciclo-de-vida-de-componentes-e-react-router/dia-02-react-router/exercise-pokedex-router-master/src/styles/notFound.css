@@ -1,0 +1,10 @@
+/* ./styles/notFound.css */
+.not-found {
+  margin: auto;
+  width: 70%;
+}
+
+.not-found-image {
+  max-width: 50%;
+  width: 100%;
+}
